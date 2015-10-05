@@ -1,0 +1,10 @@
+﻿Compilación iniciada a las 29/09/2015 12:01:05.
+     1>Proyecto "c:\Users\usuario\documents\visual studio 2013\Projects\Nivel3\Nivel3\Nivel3.vcxproj" en el nodo 2 (Build destinos).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\usuario\documents\visual studio 2013\Projects\Nivel3\Debug\Nivel3.exe" /INCREMENTAL /NOLOGO mkl_intel_c_dll.lib mkl_intel_thread_dll.lib mkl_core_dll.lib libiomp5md.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\usuario\documents\visual studio 2013\Projects\Nivel3\Debug\Nivel3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\usuario\documents\visual studio 2013\Projects\Nivel3\Debug\Nivel3.lib" /MACHINE:X86 Debug\Nivel3.obj
+         Nivel3.vcxproj -> c:\users\usuario\documents\visual studio 2013\Projects\Nivel3\Debug\Nivel3.exe
+     1>Compilación del proyecto terminada "c:\Users\usuario\documents\visual studio 2013\Projects\Nivel3\Nivel3\Nivel3.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.55

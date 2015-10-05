@@ -1,0 +1,13 @@
+﻿Compilación iniciada a las 29/09/2015 11:43:39.
+     1>Proyecto "c:\Users\usuario\Documents\Visual Studio 2013\Projects\Project1\Project1\Project1.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Nivel2.cpp
+         Nivel2.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\Users\usuario\Documents\Visual Studio 2013\Projects\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO mkl_intel_c_dll.lib mkl_sequential_dll.lib mkl_core_dll.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\Users\usuario\Documents\Visual Studio 2013\Projects\Project1\Debug\Project1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\Users\usuario\Documents\Visual Studio 2013\Projects\Project1\Debug\Project1.lib" /MACHINE:X86 Debug\Nivel2.obj
+         Project1.vcxproj -> c:\Users\usuario\Documents\Visual Studio 2013\Projects\Project1\Debug\Project1.exe
+     1>Compilación del proyecto terminada "c:\Users\usuario\Documents\Visual Studio 2013\Projects\Project1\Project1\Project1.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.53
